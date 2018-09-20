@@ -1,3 +1,4 @@
 # Pac-Learning
 
-Prpyecto del curso de 
+Proyecto del curso de Introduccion a la Estadistica y probabilidades
+
